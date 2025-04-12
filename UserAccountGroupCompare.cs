@@ -275,8 +275,6 @@ namespace UserAccountGroupCompare
             {
                 // LogToEventLog("UserAccountGroupCompare", "UserAccountGroupCompare started successfully.", 1401);
 
-                funcProgramRegistryTag("UserAccountGroupCompare");
-
                 Console.WriteLine();
 
                 //PrincipalContext newctx = funcCreatePrincipalContext();
