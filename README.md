@@ -25,3 +25,6 @@ Command-line parameters:
 - run (Required parameter)
 - ref:[UserName] (specify reference user)
 - check:[UserName] (specify user to check)
+
+Examples:
+UserAccountGroupCompare -run -ref:User1 -check:User2
