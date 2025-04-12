@@ -203,7 +203,6 @@ namespace UserAccountGroupCompare
 
             Dictionary<string, string> dCatchTable = new Dictionary<string, string>();
             dCatchTable.Add("funcGetFuncCatchCode", "f0");
-            dCatchTable.Add("funcLicenseCheck", "f1");
             dCatchTable.Add("funcPrintParameterWarning", "f2");
             dCatchTable.Add("funcPrintParameterSyntax", "f3");
             dCatchTable.Add("funcParseCmdArguments", "f4");
@@ -221,7 +220,6 @@ namespace UserAccountGroupCompare
             dCatchTable.Add("funcCheckForOU", "f16");
             dCatchTable.Add("funcWriteToErrorLog", "f17");
             dCatchTable.Add("funcGetUserGroups", "f18");
-            dCatchTable.Add("funcLicenseActivation", "f19");
             dCatchTable.Add("funcOpenOutputLog", "f20");
             dCatchTable.Add("funcWriteToOutputLog", "f21");
             dCatchTable.Add("funcSearchForUser", "f22");
