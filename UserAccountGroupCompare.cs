@@ -145,7 +145,7 @@ namespace UserAccountGroupCompare
 
         static void funcPrintParameterSyntax()
         {
-            Console.WriteLine("UserAccountGroupCompare (c) 2011 SystemsAdminPro.com");
+            Console.WriteLine("UserAccountGroupCompare");
             Console.WriteLine();
             Console.WriteLine("Parameter syntax:");
             Console.WriteLine();
